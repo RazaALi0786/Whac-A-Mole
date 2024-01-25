@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(#ff9966, #ff5e62);
+    ;
+}
+
+.grid {
+    width: 606px;
+    height: 606px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square {
+    height: 200px;
+    width: 200px;
+    border: solid black 1px;
+}
+
+.mole {
+    background: blue;
+}
