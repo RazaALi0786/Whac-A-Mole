@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(#ff9966, #ff5e62);
+    background: linear-gradient(45Deg, cyan, rgb(53, 53, 203));
     ;
 }
 
@@ -17,5 +17,6 @@ body {
 }
 
 .mole {
-    background: blue;
+    background-image: url(mole.jpg);
+    background-size: cover;
 }
